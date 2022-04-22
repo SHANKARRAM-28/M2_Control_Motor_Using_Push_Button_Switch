@@ -14,3 +14,5 @@ IN Action
 ![OFF](https://user-images.githubusercontent.com/101858144/164674036-42a74872-ae2f-4867-9d7e-c2d3dcb04b65.png)
 #### ON
 ![ON](https://user-images.githubusercontent.com/101858144/164674327-bf389da5-c3dc-456b-b393-23c432c2f032.png)
+## Badges
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/87dc046b2c2042109277af1457348ba6)](https://www.codacy.com/gh/SHANKARRAM-28/M2_Control_Motor_Using_Push_Button_Switch/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SHANKARRAM-28/M2_Control_Motor_Using_Push_Button_Switch&amp;utm_campaign=Badge_Grade)

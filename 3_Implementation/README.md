@@ -1,1 +1,1 @@
-This folder conatins all the coding files
+This folder conatins coding file (main.c)

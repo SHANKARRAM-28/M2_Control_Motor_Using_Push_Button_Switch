@@ -1,0 +1,11 @@
+OBJECTIVE
+	The objective of the project is to control the motor.
+	The purpose of the project is to minimize the electrical loss by avoiding the unwanted using of power.
+EXISTING SYSTEM
+	In this system the motor has been controlled using the push button.
+	This helps in controlling the power loss.
+	The push button used here is operates the motor.
+PROPOSED SYSTEM
+	The proposed system consists of the microcontroller as Atmega 328p.
+	Microcontroller is connected with the push button.
+	That helps in operating the motor.

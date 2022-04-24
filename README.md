@@ -17,3 +17,4 @@ IN Action
 ## Badges
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/87dc046b2c2042109277af1457348ba6)](https://www.codacy.com/gh/SHANKARRAM-28/M2_Control_Motor_Using_Push_Button_Switch/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SHANKARRAM-28/M2_Control_Motor_Using_Push_Button_Switch&amp;utm_campaign=Badge_Grade)
 [![Cppcheck Analyse](https://github.com/SHANKARRAM-28/M2_Control_Motor_Using_Push_Button_Switch/actions/workflows/cpp%20check_Analyse.yml/badge.svg)](https://github.com/SHANKARRAM-28/M2_Control_Motor_Using_Push_Button_Switch/actions/workflows/cpp%20check_Analyse.yml)
+[![Build-Linux](https://github.com/SHANKARRAM-28/M2_Control_Motor_Using_Push_Button_Switch/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/SHANKARRAM-28/M2_Control_Motor_Using_Push_Button_Switch/actions/workflows/Build%20on%20Linux.yml)
